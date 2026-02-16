@@ -1,0 +1,17 @@
+{
+  "agent": "whatif-prompt",
+  "model": "claude-sonnet-4-5",
+  "startTime": "2026-02-16T22:00:27.074Z",
+  "endTime": "2026-02-16T22:00:27.074Z",
+  "steps": 1,
+  "filesModified": [
+    "index.html",
+    "styles.css"
+  ],
+  "sessionId": "session-1771274466732-k23s4",
+  "attribution": {
+    "agentLines": 414,
+    "humanLines": 0,
+    "totalLines": 426
+  }
+}
